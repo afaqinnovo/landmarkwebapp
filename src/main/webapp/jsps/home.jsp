@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Afaq Malik Web APP</h1>
+<h1 align="center">Welcome to Afaq Malik Land Mark</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
 	           We are raising millionaires in IT automation.
 	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.
@@ -36,11 +36,11 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	</span>
 	<span style="font-weight: bold;">
                 Landmark Technology, 
-		Toronto, Canada
-		+1 437 215 2483,
-		mylandmarktech@gmail.com
+		ISLAMABAD, PAKISTAN
+		+923117401341,
+		mafaq6141@gmail.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mafaq6141@gmail.com">Mail to Landmark Technologies</a>
 	</span>
 </div>
 <hr>
