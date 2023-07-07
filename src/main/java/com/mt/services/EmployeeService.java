@@ -24,9 +24,9 @@ public class EmployeeService {
 		JSONObject js = new JSONObject();
 		js.put("Name", "Landmark Technologies");
 		js.put("Calling Name", "Landmark");
-		js.put("DOB", "08-Nov-2011");
+		js.put("DOB", 21-Nov-2023");
 		js.put("Hobbies", "Reading Technical Blogs,Teaching, Changing lives..");
-		js.put("Places he like", "Africa, Church, His native place");
+		js.put("Places he like", "PAKISTAN, ISLAMABAD, His native place");
 
 		return js.toString();
 }
